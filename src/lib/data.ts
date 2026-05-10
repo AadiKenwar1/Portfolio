@@ -59,7 +59,7 @@ export const PROJECTS: readonly Project[] = [
   },
   {
     title: "OSU Grader Portal",
-    description: "Built a Ruby on Rails application that allows students to apply for grader positions, instructors to submit recommendations, and administrators to manage course staffing and grader assignments through a centralized system. Integrated OSU course catalog APIs, implemented RESTful workflows with SQLite-backed data models, and added role-based login.",
+    description: "Led a team of 5 to build a Ruby on Rails application that allows students to apply for grader positions, instructors to submit recommendations, and administrators to manage course staffing and grader assignments through a centralized system. Integrated OSU course catalog APIs, implemented RESTful workflows with SQLite-backed data models, and added role-based login.",
     tags: ["Ruby on Rails", "SQLite", "CSS", "HTML"],
     github: "https://github.com/AadiKenwar1/OSU-Grader-Portal",
     demo: "https://demo.example.com/campus-events",
