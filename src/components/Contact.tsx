@@ -15,9 +15,8 @@ export default function Contact() {
           <h2 className="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
             Let&apos;s Connect
           </h2>
-          <p className="mt-3 max-w-lg text-slate-400">
-            Open to internships, side projects, and good conversations about
-            software.
+          <p className="mt-3 text-slate-400">
+            Open to collaborations, opportunities, and great conversations.
           </p>
         </Reveal>
 
