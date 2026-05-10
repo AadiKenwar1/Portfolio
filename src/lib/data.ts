@@ -26,7 +26,7 @@ export const HERO = {
   eyebrow: "Developer",
   name: "Aadi Kenwar",
   school: "Computer Science @ The Ohio State University",
-  bio: "Hi there! I’m a product-minded software engineer with a strong focus in end-to-end product development, from design and implementation to deployment. I enjoy building useful, reliable, and innovative software.",
+  bio: "Hi there! I’m a product-minded software engineer with a strong focus in end-to-end product development, from design and development to deployment. I enjoy building useful, reliable, and innovative software.",
 } as const;
 
 
