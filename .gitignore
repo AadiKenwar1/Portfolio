@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local Cursor / agent notes (optional per machine)
+AGENTS.md
+CLAUDE.md
