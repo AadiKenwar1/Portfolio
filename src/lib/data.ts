@@ -54,7 +54,7 @@ export const PROJECTS: readonly Project[] = [
       "/images/LiftTritionImages/NutrtitionGraphsPreview.png",
     ],
     mobile: true,
-    showDemo: true,
+    showDemo: false,
     highlight: true,
   },
   {
